@@ -37,7 +37,7 @@ The developed web app currently consists of the following limitation
 1. The payment system via Stripe can be implemented easily and it is tested working by us.
 2. We can utilize Google App Script to get the processed payments' data written back to Google Sheets for payment validation and hence automating the whole payment system.
 
-# Purchase at [shop.cre8tivenow.com](shop.cre8tivenow.com) or ask us for 3 days demo access.
+# Purchase at [shop.cre8tivenow.com](https://shop.cre8tivenow.com/product/facilitiesbooking/) or ask us for 3 days demo access.
 
 # Screenshots
 ![Facilities Booking System](screenshots/1.png)
